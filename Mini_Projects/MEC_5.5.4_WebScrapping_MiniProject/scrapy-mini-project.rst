@@ -4,8 +4,18 @@
 Scrapy Mini Project
 ===================
 
+Note added 7/12/2020:
+
+Just go to 
+
+https://docs.scrapy.org/en/latest/intro/tutorial.html
+
+======================
+
 This mini-project is simply a tutorial on how to build scrapy spiders, and is 
-for most part a copy of the original excellent tutorial available at: `<https://docs.scrapy.org/en/latest/intro/tutorial.html>`_
+for most part a copy of the original excellent tutorial available at: 
+
+`<https://docs.scrapy.org/en/latest/intro/tutorial.html>`_
 
 In this tutorial, we'll assume that Scrapy is already installed on your system.
 If that's not the case, please simply run `pip install scrapy`_.
