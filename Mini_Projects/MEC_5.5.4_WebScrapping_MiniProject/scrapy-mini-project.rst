@@ -746,6 +746,7 @@ and save it as a JSON file:
 as well as:
 `scrapy crawl xpath-scraper-results.json -o xpath-scraper-results.json`
 
+
 Going further
 =============
 
@@ -758,8 +759,7 @@ to load your data into a more interactive backend for better exploration capabil
 A bonus exercise is left to the reader which is to convert the json data collected
 into a structured RDBMS table, which can be queried using SQL afterwards. Since, scalibility
 is not a concern here, a great and simple solution would be to design a simple SQLlite3 database
-for the job. In real-life, when scraping data, the amount of data generated is usually quite large,
-therefore RDBMS databases such as MySQL or Postgres would be more suited in that case.
+for the job. In real-life, when scraping data, the amount of data generated is usually quite large, therefore RDBMS databases such as MySQL or Postgres would be more suited in that case.
 
 SQLLite3 has a lot of simple tutorials available at: https://www.sqlitetutorial.net/
 Submit what one SQLLite3 table schema might look like to store and query the data Scraped
