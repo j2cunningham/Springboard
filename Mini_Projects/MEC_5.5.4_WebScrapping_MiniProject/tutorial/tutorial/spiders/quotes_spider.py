@@ -33,6 +33,7 @@ class QuotesSpider(scrapy.Spider):
         #self.log('Saved file %s' % filename)
 
 
+# Command: $ scrapy crawl quotes -o quotes.json
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
     start_urls = [
