@@ -6,6 +6,7 @@ The requirements for this mini-project are to use both CSS and XPATH selectors t
 
 This current directory contains several files. The important ones pertaining to this submission are 
 
+- ./tutorial/spiders/odp_spider.py
 - css-scraper-results.json
 - xpath-scraper-results.json
 

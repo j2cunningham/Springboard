@@ -1,6 +1,6 @@
 # Scrapy tutorial
 
-# In order to run, do 'scrapy crawl odp_xpath'
+# In order to run, do 'scrapy crawl odp_xpath -o xpath-scraper-results.json'
 
 # Last Modified: 7/13/2020
 
