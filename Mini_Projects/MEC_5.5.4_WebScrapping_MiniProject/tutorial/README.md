@@ -1,6 +1,6 @@
 # README
 
-The requirements for this mini-project are to use both CSS and XPATH selectors to scrap a website and compare the output of the two. The two outputs should be identical. The link I decided to test scrapy on is 
+The requirements for this mini-project are to use both CSS and XPATH selectors to scrape a website and compare the output of the two. The two outputs should be identical. The link I decided to test *Scrapy* on is 
 
 `http://odp.org/Computers/Programming/Languages/Python/Books/`
 
